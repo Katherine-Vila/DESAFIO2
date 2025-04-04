@@ -1,0 +1,7 @@
+C:\Users\Kathy\OneDrive\Escritorio\DESAFIO2\EJERCICIO #4\bin\Debug\EJERCICIO #4.exe.config
+C:\Users\Kathy\OneDrive\Escritorio\DESAFIO2\EJERCICIO #4\bin\Debug\EJERCICIO #4.exe
+C:\Users\Kathy\OneDrive\Escritorio\DESAFIO2\EJERCICIO #4\bin\Debug\EJERCICIO #4.pdb
+C:\Users\Kathy\OneDrive\Escritorio\DESAFIO2\EJERCICIO #4\obj\Debug\EJERCICIO #4.csproj.AssemblyReference.cache
+C:\Users\Kathy\OneDrive\Escritorio\DESAFIO2\EJERCICIO #4\obj\Debug\EJERCICIO #4.csproj.CoreCompileInputs.cache
+C:\Users\Kathy\OneDrive\Escritorio\DESAFIO2\EJERCICIO #4\obj\Debug\EJERCICIO #4.exe
+C:\Users\Kathy\OneDrive\Escritorio\DESAFIO2\EJERCICIO #4\obj\Debug\EJERCICIO #4.pdb
